@@ -8,4 +8,9 @@ class Hello{
 	void m1(){
 		 int i=10;
 	}
+
+	//Bug 207
+	void m3(){
+	}
+	
 }
