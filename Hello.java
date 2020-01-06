@@ -5,5 +5,7 @@ class Hello{
 		System.out.println("hi anshul");
 	}
 
-	void m1(){}
+	void m1(){
+		 int i=10;
+	}
 }
