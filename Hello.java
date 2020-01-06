@@ -8,9 +8,16 @@ class Hello{
 	void m1(){
 		 int i=10;
 	}
+<<<<<<< Updated upstream
 
 	//Bug 207
 	void m3(){
 	}
 	
+=======
+	
+	//Bug-201
+	void m2(){}
+
+>>>>>>> Stashed changes
 }
